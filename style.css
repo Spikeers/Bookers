@@ -1,6 +1,6 @@
 p {
     font-size: 40px;
-    color: red;
+    color: aqua;
   }
   li {
     color: green;
@@ -11,4 +11,12 @@ p {
   
   .list_class {
     color: red;
+  }
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .box {
+    background-color: red;
   }
