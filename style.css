@@ -1,6 +1,6 @@
 p {
     font-size: 40px;
-    color: aqua;
+    color: red;
   }
   li {
     color: green;
@@ -28,6 +28,15 @@ p {
   .box {
     background-color: red;
     width: 200px;}
-      .box-txt {
+ .box-txt {
         color: black;
       }
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      
+      .box {
+        background-color: red;
+        width: 200px;
+        height: 200px;}
