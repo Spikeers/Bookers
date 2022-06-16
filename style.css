@@ -28,3 +28,6 @@ p {
   .box {
     background-color: red;
     width: 200px;}
+      .box-txt {
+        color: black;
+      }
